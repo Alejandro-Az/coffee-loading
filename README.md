@@ -1,2 +1,2 @@
-# coffee-loading (CSS)
+# Coffee-loading (CSS)
 Una taza de café que puede usarse como pantalla de carga
